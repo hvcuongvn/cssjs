@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Muốn copy thì vào website : <a href='https://homelandsg.vn//'>https://homelandsg.vn//"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>Muốn copy thì vào website : <a href='https://homelandsg.vn/'>https:/homelandsg.vn/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
