@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://homelandsgvn.blogspot.com/';
+	var url_popup = 'https://homelandsg.vn/du-an-the-residence-1/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
